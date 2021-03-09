@@ -1,0 +1,14 @@
+---
+STACK_VERSION:
+  - 8.0.0-SNAPSHOT
+
+NODE_JS_VERSION:
+  - 14
+  - 12
+  - 10
+
+TEST_SUITE:
+  - free
+  - platinum
+
+exclude: ~
